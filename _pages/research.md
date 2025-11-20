@@ -1,6 +1,5 @@
 ---
 title: research
-layout: single
 permalink: /research/
 ---
 

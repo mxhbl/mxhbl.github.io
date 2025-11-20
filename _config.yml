@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,10 +115,13 @@ analytics:
 author:
   name             : "Maximilian Hübl"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student | physics, self-assembly"
+  bio              : "PhD student in physics, self-assembly"
   location         : "Vienna, Austria"
   email            : "mailto:maximilian.huebl@ist.ac.at"
   links:
+    - label: "Goodrich group @ ISTA"
+      icon: "fa-solid fa-fw fa-building-columns"
+      url: "goodrich.ista.ac.at"
     - label: "Google Scholar"
       icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=VD6Z_BEAAAAJ&hl=en"
@@ -319,3 +322,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

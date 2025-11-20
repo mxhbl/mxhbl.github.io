@@ -1,6 +1,5 @@
 ---
 title: code
-layout: single
 permalink: /code/
 ---
 
