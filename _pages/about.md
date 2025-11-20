@@ -1,10 +1,8 @@
 ---
 layout: single
-title: about
 permalink: /about/
 ---
 
-
-# Maximilian Hübl
+# about
 
 Hey, it's me! This site is currently work in progress.
