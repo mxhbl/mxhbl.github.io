@@ -1,7 +1,7 @@
 ---
 title: about
-permalink: /about/
-redirect_from: /
+permalink: /
+redirect_from: /about/
 ---
 
 Hey, it's me! This site is currently work in progress.
