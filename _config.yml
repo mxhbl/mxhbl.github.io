@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Maximilian Hübl"
 description              : 
 url                      : "mxhbl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "about/" # the subpath of your site, e.g. "/blog"
 repository               : "mxhbl/mxhbl.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -121,7 +121,7 @@ author:
   links:
     - label: "Goodrich group @ ISTA"
       icon: "fa-solid fa-fw fa-building-columns"
-      url: "goodrich.ista.ac.at"
+      url: "https://goodrich.ista.ac.at"
     - label: "Google Scholar"
       icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=VD6Z_BEAAAAJ&hl=en"
