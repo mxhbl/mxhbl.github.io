@@ -1,6 +1,6 @@
 ---
 title: about
-permalink: about/
+permalink: /about/
 ---
 
 Hey, it's me! This site is currently work in progress.
