@@ -114,19 +114,19 @@ analytics:
 # Site Author
 author:
   name             : "Maximilian Hübl"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student | physics, self-assembly"
   location         : "Vienna, Austria"
   email            : "mailto:maximilian.huebl@ist.ac.at"
   links:
     - label: "Google Scholar"
-      icon: #"fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=VD6Z_BEAAAAJ&hl=en"
     - label: "arXiv"
       # icon: "fab fa-fw fa-facebook-square"
       url: "https://arxiv.org/a/hubl_m_1.html"    
     - label: "ORCID"
-      # icon: "fab fa-fw fa-facebook-square"
+      icon: "fa-brands fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-7640-0535"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
