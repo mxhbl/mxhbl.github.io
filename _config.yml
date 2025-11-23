@@ -119,9 +119,9 @@ author:
   location         : "Vienna, Austria"
   email            : "mailto:maximilian.huebl@ist.ac.at"
   links:
-    - label: "Goodrich group @ ISTA"
+    - label: "ISTA"
       icon: "fa-solid fa-fw fa-building-columns"
-      url: "https://goodrich.ista.ac.at"
+      url: "https://ista.ac.at"
     - label: "Google Scholar"
       icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=VD6Z_BEAAAAJ&hl=en"
