@@ -2,7 +2,7 @@
 title: publications
 permalink: /publications/
 ---
-0. MC Hübl and CP Goodrich. Entropic size control of self-assembled filaments _Phys. Rev. Research_ 8, L012054 (2026).  
+0. MC Hübl and CP Goodrich. Entropic size control of self-assembled filaments. _Phys. Rev. Research_ 8, L012054 (2026).  
 \[[publisher](https://doi.org/10.1103/68rs-3qgn)\] \[[arXiv](https://arxiv.org/abs/2507.04985)\]
 0. MC Hübl and CP Goodrich. Simultaneous optimization of assembly time and yield in programmable self-assembly. _J. Chem. Phys_ 164, 084904 (2026).  
 \[[publisher](https://doi.org/10.1063/5.0304731)\] \[[arXiv](https://arxiv.org/abs/2510.07876)\]
