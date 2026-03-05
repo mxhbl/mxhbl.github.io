@@ -2,10 +2,10 @@
 title: publications
 permalink: /publications/
 ---
+0. MC Hübl and CP Goodrich. Entropic size control of self-assembled filaments _Phys. Rev. Research_ 8, L012054 (2026).
+\[[publisher](https://doi.org/10.1103/68rs-3qgn)\] \[[arXiv](https://arxiv.org/abs/2507.04985)\]
 0. MC Hübl and CP Goodrich. Simultaneous optimization of assembly time and yield in programmable self-assembly. _J. Chem. Phys_ 164, 084904 (2026).  
 \[[publisher](https://doi.org/10.1063/5.0304731)\] \[[arXiv](https://arxiv.org/abs/2510.07876)\]
-0. MC Hübl and CP Goodrich. Entropic size control of self-assembled filaments. Accepted at _Phys. Rev. Res._ (2026).  
-\[[publisher](https://doi.org/10.1103/68rs-3qgn)\] \[[arXiv](https://arxiv.org/abs/2507.04985)\]
 0. MC Hübl, TE Videbæk, D Hayakawa, WB Rogers, and CP Goodrich. A polyhedral structure controls programmable self-assembly. _Nature Physics_ 22 (2), 294-301 (2026).  
 \[[publisher](https://www.nature.com/articles/s41567-025-03120-3)\] \[[arXiv](https://arxiv.org/abs/2501.16107)\]
 0. S Shi, MC Hübl, G Grosjean, CP Goodrich, and S Waitukaitis. Electrostatics overcome acoustic collapse to assemble, adapt, and activate levitated matter. _Proc. Natl. Acad. Sci. USA_ 122, e2516865122 (2025).  
