@@ -6,7 +6,7 @@ permalink: /research/
 ### Physical principles of programmable self-assembly
 
 Self-assembly underlies the mystery of life, forms the foundation of biology, and holds near-infinite potential as a technological tool.
-The basic process is simple: building blocks autonomously come together to form nanoscale materials and machines.
+The basic premise is simple: building blocks autonomously come together to form nanoscale materials and machines.
 But to control self-assembly, we must understand how the tunable design attributes of those building blocks give rise to the desired functional properties of the assembled structures.
 Establishing this connection is a daunting task, and our best efforts at self-assembly pale in comparison to the capabilities of biology.
 
