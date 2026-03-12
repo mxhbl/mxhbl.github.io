@@ -13,7 +13,7 @@ Establishing this connection is a daunting task, and our best efforts at self-as
 My research tackles this problem from the ground up, aiming to uncover the fundamental principles, limitations, and trade-offs inherent to the physics of self-assembly.
 The ultimate goal is a deeper understanding of how these physical principles shape biology and enable designer nanotechnology.
 My approach starts from first principles by combining statistical mechanics, convex geometry, and combinatorics.
-I use analytical methods to map out the mathematical structure of self-assembly's high-dimensional design spaces and then navigate them with modern numerical methods, leveraging automatic differentiation and mathematical programming as critical tools.
+I use analytical methods to map out the mathematical structure of self-assembly's high-dimensional design spaces and then navigate them with modern numerical methods, leveraging automatic differentiation and convex optimization as critical tools.
 Through it all, my focus remains on cultivating an intuitive picture of the underlying physics, which ultimately informs and facilitates clean and controlled numerical treatment.
 
 <figure>
