@@ -9,4 +9,4 @@ My research sits at the intersection of physics, biology, and computer science, 
 I am broadly interested in the principles behind collective organization, and how these principles can be exploited for the rational design of target properties and behavior.
 
 Previously, I completed my master's degree at [TU Wien](https://www.tuwien.at), where I worked on microswimmer locomotion in the [Kahl group](https://www.tuwien.at/en/phy/itp/research/condensed-matter/phase-behaviour-and-criticality-in-simple-liquids-and-their-mixtures). I also spent a semester studying piano at [Berklee College of Music](https://college.berklee.edu).
-Beyond my research and music, I enjoy travelling and photography.
+Beyond research and music, I enjoy travelling and photography.
