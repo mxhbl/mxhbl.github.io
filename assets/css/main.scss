@@ -7,3 +7,21 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Increase font size for post content on mobile only */
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: 1.2em; /* Adjust this value for mobile */
+  }
+  
+  /* Revert to default size on larger screens */
+  @include breakpoint($medium) {
+    p,
+    li,
+    dl {
+      font-size: 1em; /* Default PC size */
+    }
+  }
+}
