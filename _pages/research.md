@@ -23,7 +23,7 @@ Through it all, my focus remains on cultivating an intuitive picture of the unde
 
 
 #### Related publications:
-- MC Hübl and CP Goodrich. [Entropic size control of self-assembled filaments](https://doi.org/10.1103/68rs-3qgn). _Phys. Rev. Research_ 8, L012054 (2026).
+- MC Hübl and CP Goodrich. [Entropic size control of self-assembled filaments](https://doi.org/10.1103/68rs-3qgn). _Phys. Rev. Res._ 8, L012054 (2026).
 - MC Hübl and CP Goodrich. [Simultaneous optimization of assembly time and yield in programmable self-assembly](https://doi.org/10.1063/5.0304731). _J. Chem. Phys._ 164, 084904 (2026).
-- MC Hübl, TE Videbæk, D Hayakawa, WB Rogers, and CP Goodrich. [A polyhedral structure controls programmable self-assembly](https://www.nature.com/articles/s41567-025-03120-3). _Nature Physics_ 22 (2), 294-301 (2026).
+- MC Hübl, TE Videbæk, D Hayakawa, WB Rogers, and CP Goodrich. [A polyhedral structure controls programmable self-assembly](https://www.nature.com/articles/s41567-025-03120-3). _Nat. Phys._ 22 (2), 294-301 (2026).
 - MC Hübl and CP Goodrich. [Accessing semiaddressable self-assembly with efficient structure enumeration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.058204). _Phys. Rev. Lett._ 134, 058204 (2025).
