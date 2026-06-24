@@ -14,3 +14,14 @@ html {
   @include breakpoint($large)   { font-size: 20px; }  // was 20px
   @include breakpoint($x-large) { font-size: 22px; }  // unchanged — laptop stays as-is
 }
+
+.page__content a {
+  &, &:visited, &:hover, &:focus {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;   // optional, keeps underline off descenders
+  }
+  &:hover {
+    text-decoration-thickness: 2px;  // optional hover affordance instead of color
+  }
+}
