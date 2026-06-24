@@ -19,7 +19,7 @@ html {
   &, &:visited, &:hover, &:focus {
     color: inherit;
     text-decoration: underline;
-    text-decoration-thickness: from-font;   // add this
+    text-decoration-thickness: 0.5px;   // add this
     text-underline-offset: 0.15em;
   }
 }
