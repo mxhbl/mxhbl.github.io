@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in physics, self-assembly"
   location         : "Vienna, Austria"
-  email            : "mailto:maximilian.huebl@ist.ac.at"
+  email            : "maximilian.huebl@ist.ac.at"
   links:
     - label: "ISTA"
       icon: "fa-solid fa-fw fa-building-columns"
