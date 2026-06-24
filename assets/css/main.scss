@@ -19,11 +19,13 @@ html {
   &, &:visited, &:hover, &:focus {
     color: inherit;
     text-decoration: underline;
+    text-decoration-thickness: from-font;   // add this
     text-underline-offset: 0.15em;
   }
 }
-.page__content a:not(.paper-title) {
-  &, &:visited { color: #666; }   // muted gray = secondary, recedes
+
+.page__content ol a:not(.paper-title) {   // add `ol`
+  &, &:visited { color: #666; }
   &:hover { color: #222; }
 }
 
