@@ -22,5 +22,10 @@ html {
     text-underline-offset: 0.15em;
   }
 }
+.page__content a:not(.paper-title) {
+  &, &:visited { color: #666; }   // muted gray = secondary, recedes
+  &:hover { color: #222; }
+}
+
 
 .page__content .coverage { font-size: 0.9em; color: #666; }
