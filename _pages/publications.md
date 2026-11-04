@@ -3,7 +3,7 @@ title: publications
 permalink: /publications/
 ---
 0. [Programmable nonlinear rotation of acoustically levitated chiral stars](https://arxiv.org/abs/2610.27927){:.paper-title}.  
-S Shi, **MC Hübl**, A Panda, T Barton, CP Goodrich, and S Waitukaitis. 
+S Shi, **MC Hübl**, A Panda, T Barton, CP Goodrich, and S Waitukaitis.  
 [arXiv](https://arxiv.org/abs/2610.27927)
 0. [Entropic size control of self-assembled filaments](https://doi.org/10.1103/68rs-3qgn){:.paper-title}.  
 **MC Hübl** and CP Goodrich.  
